@@ -26,7 +26,7 @@ A React-based application that generates inspirational and motivational quotes w
 
 ## 🌐 Live Demo
 
-🔗 [Play Quote Generator](https://quote-generator-pp.netlify.app)
+🔗 [Quote Generator](https://quote-generator-pp.netlify.app)
 
 ---
 
