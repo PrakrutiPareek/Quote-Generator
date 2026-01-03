@@ -56,12 +56,12 @@
 }
 
 .quote-text {
-  font-size: clamp(1.6rem, 2cqi, 2.5rem);
+  font-size: 2.4rem;
   color: #ddd;
   line-height: 3rem;
   text-align: center;
   letter-spacing: 0.1rem;
-  width: clamp(25rem, 50cqi, 50rem);
+  width: 50rem;
   display: inline-flex;
   gap: 1.5rem;
 }
@@ -121,28 +121,28 @@
 }
 
 .circle-1 {
-  width: clamp(5rem, 10cqi, 16rem);
+  width: 16rem;
   background-image: linear-gradient(to top, #ffac24, #ffd780);
   top: -6cqi;
   left: 50%;
 }
 
 .circle-2 {
-  width: clamp(2rem, 4cqi, 6rem);
+  width: 6rem;
   background-image: linear-gradient(to top, #ffac24, #ffd780);
   bottom: 15rem;
   left: 7rem;
 }
 
 .circle-3 {
-  width: clamp(5rem, 10cqi, 16rem);
+  width: 16rem;
   background-image: linear-gradient(to top, #553ddd, #7f69e8);
   top: 50%;
   right: -7cqi;
 }
 
 .circle-4 {
-  width: clamp(1rem, 1cqi, 2rem);
+  width: 2rem;
   background-image: linear-gradient(to top, #dd133f, #fd4069);
   top: 30%;
 }

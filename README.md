@@ -1,16 +1,47 @@
-# React + Vite
+💬 Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based application that generates inspirational and motivational quotes with a simple, interactive interface.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built with React + Vite
 
-## React Compiler
+- Generates random quotes at the click of a button
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Displays quote text and author
 
-## Expanding the ESLint configuration
+- Adds quotes to favourites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean and minimal UI
+
+- Responsive design for all screen sizes
+
+- Easy to extend with APIs or categories
+
+## 🖼️ Screenshot
+
+![ Quote Generator](public/Screenshot%202026-01-03%20015529.png)
+
+---
+
+## 🌐 Live Demo
+
+🔗 [Play Quote Generator](https://quote-generator-pp.netlify.app)
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- CSS
+- API
+- Vite
+
+---
+
+## 📬 Contact
+
+👩‍💻 Created by **Prakruti Pareek**
+
+- GitHub: [PrakrutiPareek](https://github.com/PrakrutiPareek)
+- Portfolio: [prakruti-pareek-portfolio.netlify.app](https://prakruti-pareek-portfolio.netlify.app)
