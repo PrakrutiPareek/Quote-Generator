@@ -121,30 +121,30 @@
 }
 
 .circle-1 {
-  width: 16rem;
+  width: 15rem;
   background-image: linear-gradient(to top, #ffac24, #ffd780);
-  top: -6cqi;
+  top: -10rem;
   left: 50%;
 }
 
 .circle-2 {
   width: 6rem;
   background-image: linear-gradient(to top, #ffac24, #ffd780);
-  bottom: 15rem;
-  left: 7rem;
+  bottom: 10rem;
+  left: 4rem;
 }
 
 .circle-3 {
   width: 16rem;
   background-image: linear-gradient(to top, #553ddd, #7f69e8);
-  top: 50%;
-  right: -7cqi;
+  top: 70%;
+  right: -8rem;
 }
 
 .circle-4 {
   width: 2rem;
   background-image: linear-gradient(to top, #dd133f, #fd4069);
-  top: 30%;
+  top: 28%;
 }
 
 .favorites {
